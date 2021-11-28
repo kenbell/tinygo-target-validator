@@ -1,0 +1,4 @@
+tinygo-target-validator
+*.elf
+output.txt
+.vscode
